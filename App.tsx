@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react';
 import type { Task } from './types';
-import useLocalStorage from './hooks/useLocalStorage';
+import useLocalStorage from './hooks/useLocalStorage.ts';
 import AddTaskForm from './components/AddTaskForm';
 import TaskCard from './components/TaskCard';
 import LogTimeModal from './components/LogTimeModal';
