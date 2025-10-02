@@ -1,0 +1,5 @@
+{
+  "name": "Time Management Dashboard",
+  "description": "An application to track daily time spent on goals, visualize progress with a dashboard, and receive motivational support to help you stay consistent.",
+  "requestFramePermissions": []
+}
